@@ -17,6 +17,10 @@ In the interest of having this process be as pain free as possible, we require a
 3. Make sure there are no exit codes in the make process.
 4. Verify that you have a decent mic, and a quiet place to talk to us from.
 
+## What can I expect?
+
+Please expect to have 2-3 technical sessions which last from 45 minutes to an hour each. You are free to have a browser window open to google, or look up various man pages, APIs and what-have-yous.
+
 ## Other things?
 
 For all other items, please feel free to email `jobs@recogni.com` with your full name and the words `"Interview Query"` somewhere in the subject of the email (or reach out to one of us from our website!).
